@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "CHAOS_SMP_77.aternos.me",
+    "port": 40389,
     "version": "1.21.1"
   },
   "position": {
